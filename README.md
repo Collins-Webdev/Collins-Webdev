@@ -1,4 +1,4 @@
-[![MasterHead](https://www.horizont.com.hr/posao/frontend-developer.gif)]
+![MasterHead](https://www.horizont.com.hr/posao/frontend-developer.gif)
 <h1 align="center">Hi 👋, I'm Collins HAYA</h1>
 <img align="right" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="coding">
 
