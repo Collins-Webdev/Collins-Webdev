@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.3abab6afe878553af574b187e5ef2168?rik=S6hWuPnfVV2LTg&riu=http%3a%2f%2f38.media.tumblr.com%2fab407e921bc0bacdfd56f06bbb90caed%2ftumblr_niczg0B2dO1red0apo1_r1_1280.gif&ehk=aocEKCTqED9bcDJcx9sVDIYjwB0mT0RY7KiCq%2fSOHRo%3d&risl=&pid=ImgRaw&r=0) height="400"]
+[![MasterHead](https://www.horizont.com.hr/posao/frontend-developer.gif)]
 <h1 align="center">Hi 👋, I'm Collins HAYA</h1>
 <img align="right" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="coding">
 
