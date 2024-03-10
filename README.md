@@ -2,15 +2,11 @@
 <h1 align="center">Hi 👋, I'm Collins HAYA</h1>
 <img align="right" width="400" src="https://i.giphy.com/UIN7Andwh7kDZGUvmt.webp" alt="coding">
 
-<h3 align="center">A passionate frontend developer from Bénin</h3>
+<h3 align="center">A passionate python developer from Bénin</h3>
 
-- 👨‍💻 All of my projects are available at [https://collinshaya.netlify.app/](https://collinshaya.netlify.app/)
-
-- 💬 Ask me about **React JS,Figma or Tailwind**
+- 💬 Ask me about **Python, Django or TensorFlow**
 
 - 📫 How to reach me **collinshaya@gmail.com**
-
-- 📄 Know about my experiences [https://collinshaya.netlify.app/pdf/CV%20Collins%20H%20-%20D%C3%A9velopeur%20Web%20Front-End.pdf](https://collinshaya.netlify.app/pdf/CV%20Collins%20H%20-%20D%C3%A9velopeur%20Web%20Front-End.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
