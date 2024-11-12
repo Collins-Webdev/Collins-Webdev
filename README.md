@@ -1,10 +1,8 @@
 ![MasterHead](https://sircltech.com/assets/images/newgif/python.gif)
 <h1 align="center">Hi 👋, I'm Collins HAYA</h1>
-<img align="right" width="400" src="https://i.giphy.com/UIN7Andwh7kDZGUvmt.webp" alt="coding">
+<h3 align="center">A passionate Java developer from Bénin</h3>
 
-<h3 align="center">A passionate python developer from Bénin</h3>
-
-- 💬 Ask me about **Python, Django or TensorFlow**
+- 💬 Ask me about **JAVA and Spring Boot**
 
 - 📫 How to reach me **collinshaya@gmail.com**
 
